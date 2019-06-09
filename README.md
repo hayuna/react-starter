@@ -37,7 +37,7 @@ npm run storybook
 - styled-icons for icons (integration with two above)
 - styled-spinkit for loaders
 
-updated:
+updated:kjh
 khkhkj
 - basic storybook library setup
 - example of reusable Button inside storybook
